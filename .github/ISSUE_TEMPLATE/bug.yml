@@ -6,7 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report! :warning: Please consider contacting support@braze.com for faster integration troubleshooting and to avoid leaking private information to our public Github issues.
+        Thanks for taking the time to fill out this bug report! 
+        
+        :warning: Please consider contacting support@braze.com for faster integration troubleshooting and to avoid leaking private information to our public Github issues.
   - type: input
     id: sdk_version
     attributes:
