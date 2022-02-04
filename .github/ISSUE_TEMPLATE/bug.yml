@@ -75,7 +75,7 @@ body:
     id: verbose_logs
     attributes:
       label: Verbose Logs
-      description: Please enable the `enableLogging: true` initialization option and paste verbose log output. This will be automatically formatted into code, so no need for backticks.
+      description: Please set "enableLogging" to true in initialization option and paste verbose log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
   - type: textarea
     id: other_info
