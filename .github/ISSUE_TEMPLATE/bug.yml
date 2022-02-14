@@ -8,7 +8,7 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report! 
         
-        :warning: Please consider contacting support@braze.com for faster integration troubleshooting and to avoid leaking private information to our public Github issues.
+        :warning: Please consider contacting [Braze Support](https://www.braze.com/docs/support_contact) for in-depth troubleshooting and to avoid leaking private information to our public Github issues.
   - type: input
     id: sdk_version
     attributes:
